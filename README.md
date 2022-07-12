@@ -1,0 +1,2 @@
+# KontrolKecepatanEncoderMotorDC
+Tugas Mekatronika
